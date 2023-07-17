@@ -4,6 +4,7 @@
 
  To get the asset you can download this projct as it is or drag UIExtensionPackage.unitypackage package to your project.
 
-![image](https://github.com/IvanKamsigovski/UI_Expansion/assets/44873411/296e7f7d-3999-4268-89e3-df54bc834e53)
+![image](https://github.com/IvanKamsigovski/UI_Expansion/assets/44873411/c0b41701-5b23-46a1-98c1-3a1c8669c1ec)
+
 
 
